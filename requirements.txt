@@ -5,4 +5,5 @@ langgraph
 python-dotenv
 faiss-cpu
 pypdf
+wikipedia
 
